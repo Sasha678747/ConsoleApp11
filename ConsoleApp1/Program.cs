@@ -1,4 +1,4 @@
-﻿Console.WriteLine("233223!");
+﻿Console.WriteLine("ыффычыфччыыч!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
